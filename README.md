@@ -7,12 +7,12 @@ EduFunKids – Platform Edukasi Interaktif Anak
   | Nama Anggota | Tugas / Jobdesk |
   |--------------|-----------------|
   | Ragit Dwi Saputra | Requirement Gathering, Implementasi Frontend, Deployment |
-  | Amalia Aisaturadia5 | Design (UML, UI), SRS, Materi edukasi, Materi kuis |
+  | Amalia Aisaturadia | Design (UML, UI), Implementasi Backend, Materi edukasi, Materi kuis |
   | Nadia Syahira | Design (UML, UI), Materi Game, Implementasi Backend, Testing |
 
 ## 📱Deskripsi Singkat Aplikasi 
 EduFunKids adalah aplikasi web edukasi interaktif berbasis browser yang dirancang untuk anak-anak. Aplikasi ini menyediakan permainan edukasi seperti tebak huruf hitung cepat,dan mengambar dilengkapi dengan audio dan tampilan ramah anak. EduFunKids dibuat untuk mempermudah proses belajar melalui metode “belajar sambil bermain”.
-### Sistem ini dibuat berdasarkan permintaan dari klien kelompok 5 dengan tujuan untuk menyelesaikan permasalahan:
+### Sistem ini dibuat berdasarkan permintaan dari klien kelompok 3 dengan tujuan untuk menyelesaikan permasalahan:
 - Kurangnya media pembelajaran interaktif untuk anak usia dini yang menarik, mudah dipahami, dan dapat diakses secara online.
 - Materi belajar untuk anak-anak sering monoton sehingga anak cepat bosan dan kurang fokus.
 - Orang tua maupun guru membutuhkan platform yang dapat membantu anak belajar sambil bermain.
@@ -108,11 +108,3 @@ Dosen Pengampu: Dila Nurlaila, M.Kom
 ## 📄 Lisensi
 
 © 2025 EduFunKids — Kelompok 7 RPL
-
-Hal-hal Penting yang Perlu Diketahui
-Tampilan masih dapat dikembangkan untuk lebih modern.
-Firestore tidak menyimpan data secara offline default tanpa konfigurasi tambahan.
-
-Keterangan Tugas
-Project ini dibuat untuk memenuhi Tugas Final Project mata kuliah Rekayasa Perangkat Lunak.
-Dosen Pengampu: Dila Nurlaila, M.Kom
