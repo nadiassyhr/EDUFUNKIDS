@@ -50,7 +50,7 @@ function initBackgroundMusic() {
     if (savedMusicVolume !== null) {
         backgroundMusic.volume = parseFloat(savedMusicVolume);
     } else {
-        backgroundMusic.volume = 0.5; // 50% default
+        backgroundMusic.volume = 0.5; 
         localStorage.setItem('edu_music_volume', '0.5');
     }
     
@@ -67,7 +67,7 @@ function initBackgroundMusic() {
     document.addEventListener('touchstart', startBackgroundMusic, { once: true });
 }
 
-// Fungsi untuk memulai background music
+// Fungsi untuk memulai background musik
 function startBackgroundMusic() {
     if (backgroundMusic && backgroundMusic.volume > 0) {
         backgroundMusic.play().catch(error => {
@@ -151,7 +151,6 @@ function initNavigation() {
             e.preventDefault();
             const targetSection = this.getAttribute('data-section');
             
-            // Update navigation
             navLinks.forEach(nav => nav.classList.remove('active'));
             document.querySelector(`[data-section="${targetSection}"]`).classList.add('active');
             
