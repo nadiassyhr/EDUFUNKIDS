@@ -1,6 +1,18 @@
 # 📌 Final Project RPL – Sistem Edufunkids
 EduFunKids – Platform Edukasi Interaktif Anak
 
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+**Platform Edukasi Interaktif untuk Belajar Sambil Bermain**
+
+</div>
+
 ## 👥 Identitas Kelompok
 - **Nama Kelompok :** [kelompok 7]
 - **Anggota & Jobdesk :**
@@ -40,7 +52,7 @@ EduFunKids adalah aplikasi web edukasi interaktif berbasis browser yang dirancan
 - Firebase Firestore – Database untuk penyimpanan data
 - Assets/Music – Folder yang memuat musik dan sound effect
 - Browser (Chrome/Edge/Firefox) – Media menjalankan aplikasi,
-  disarankan menggunakan chrom62266e agar narator mengunakan bahasa indonesia.
+  disarankan menggunakan chrome agar narator mengunakan bahasa indonesia.
 
 ## Cara Menjalankan Aplikasi
 Aplikasi dapat langsung dijalankan tanpa instalasi melalui link berikut:
@@ -91,15 +103,19 @@ https://ragit09.github.io/Edufunkids/
 
 ## Catatan Tambahan
 - Aplikasi optimal di tablet, laptop/PC.
-- Akses web menggunakan chrome agar voice narator menggunakan bahasa indonesia
+- akses web menggunakan chrome agar voice narator menggunakan bahasa indonesia
 - Musik autoplay dapat diblokir oleh browser tertentu.
 - File audio wajib berada pada folder music/.
 - file foto wajib didalam folder img/
 
 ## Hal-hal Penting yang Perlu Diketahui
-- Masih ada beberapa game yang harus di buat sementara hanya 3.
+- masih ada beberapa game yang harus di buat sementara hanya 3.
 - Tampilan masih dapat dikembangkan untuk lebih modern.
 - Firestore tidak menyimpan data secara offline default tanpa konfigurasi tambahan.
+
+## 📄 Dokumentasi
+- [Product Backlog Kelompok 7](Document/Product%20Backlog_Kelompok%207.pdf)
+- [Sprint Execution Kelompok 7](Document/Sprint%20Execution_Kelompok%207.pdf)
 
 ## Keterangan Tugas
 Project ini dibuat untuk memenuhi Tugas Final Project mata kuliah Rekayasa Perangkat Lunak.
