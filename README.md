@@ -91,13 +91,13 @@ https://ragit09.github.io/Edufunkids/
 
 ## Catatan Tambahan
 - Aplikasi optimal di tablet, laptop/PC.
-- akses web menggunakan chrome agar voice narator menggunakan bahasa indonesia
+- Akses web menggunakan chrome agar voice narator menggunakan bahasa indonesia
 - Musik autoplay dapat diblokir oleh browser tertentu.
 - File audio wajib berada pada folder music/.
 - file foto wajib didalam folder img/
 
 ## Hal-hal Penting yang Perlu Diketahui
-- masih ada beberapa game yang harus di buat sementara hanya 3.
+- Masih ada beberapa game yang harus di buat sementara hanya 3.
 - Tampilan masih dapat dikembangkan untuk lebih modern.
 - Firestore tidak menyimpan data secara offline default tanpa konfigurasi tambahan.
 
